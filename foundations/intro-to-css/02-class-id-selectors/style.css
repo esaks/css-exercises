@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd{
+    background-color: #eb7d7d;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-increase-24{
+    font-size: 24px;
+}
+
+#even-title1{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#even-title2{
+    background-color: #7fff00;
+    font-weight: bold;
+}
